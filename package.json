@@ -1,0 +1,19 @@
+{
+  "name": "ts-data-transform",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node index.ts",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.18",
+    "vitest": "^3.1.3"
+  }
+}
